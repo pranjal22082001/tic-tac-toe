@@ -4,19 +4,32 @@ Welcome to Tic-Tac-Toe! This project is a simple implementation of the classical
 
 Tic-Tac-Toe is a classic two-player game played on a 3x3 grid. The objective of the game is for a player to place their symbol (usually 'X' or 'O') in a horizontal, vertical, or diagonal row, thus forming a line of three of their symbols. The game is typically played on a piece of paper or a board, but it can also be implemented digitally.
 
-# Demo
+## Demo
 
-You can play the game live (https://pranjal22082001.github.io/tic-tac-toe/)
+You can play the game live [here](https://pranjal22082001.github.io/tic-tac-toe/).
 
-# Features
+## Features
 
--Player vs Player
--Interactive gameplay
--Win and Draw detection
+- Player vs Player
+- Interactive gameplay
+- Win and Draw detection
+- Restart game
 
-# To run the game locally
-git clone https://github.com/pranjal22082001/tic-tac-toe.git
+## To Run the Game Locally
 
-cd tic-tac-toe
+1. Clone the repository:
 
-Open 'index.html' in your browser
+    ```
+    git clone https://github.com/pranjal22082001/tic-tac-toe.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```
+    cd tic-tac-toe
+    ```
+
+3. Open 'index.html' in your browser.
+
+## Live Link
+https://github.com/pranjal22082001/tic-tac-toe.git
