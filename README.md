@@ -32,4 +32,4 @@ You can play the game live [here](https://pranjal22082001.github.io/tic-tac-toe/
 3. Open 'index.html' in your browser.
 
 ## Live Link
-https://github.com/pranjal22082001/tic-tac-toe.git
+https://pranjal22082001.github.io/tic-tac-toe/
